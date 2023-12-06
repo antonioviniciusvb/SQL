@@ -2,10 +2,10 @@
 -- Descomentar para usar
 -- DROP DATABASE IF EXISTS db_generation_game_online;
 
--- criar o Banco de dados db_quitanda
+-- criar o Banco de dados db_generation_game_online
 CREATE DATABASE db_generation_game_online;
 
--- Selecionar o Banco de Dados db_quitanda
+-- Selecionar o Banco de Dados db_generation_game_online
 USE db_generation_game_online;
 
 -- Criar a tabela tb_classe
